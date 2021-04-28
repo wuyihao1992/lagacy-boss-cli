@@ -1,0 +1,21 @@
+{
+  "name": "lagacy-boss-cli",
+  "version": "1.0.0",
+  "description": "webpack cli",
+  "main": "index.js",
+  "bin": {
+    "lagacy-boss-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo 'Test Script'"
+  },
+  "keywords": [
+    "webpack",
+    "cli"
+  ],
+  "author": "wuyihao",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
